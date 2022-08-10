@@ -1,0 +1,1 @@
+/Users/gbonespirito/Development/kotlin-consume-lib/build/classes/kotlin/main/MainKt.class
